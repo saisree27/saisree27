@@ -4,7 +4,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/saisree27/profile-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/saisree27/profile-stats/blob/master/generated/overview.svg" /><br>
+  <p align="center"> (Generated from https://github.com/jstrieb/github-stats!) </p>
 </p>
 
 <!-- ![](https://github.com/saisree27/profile-stats/blob/master/generated/overview.svg) -->
