@@ -12,8 +12,8 @@
 
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning Dynamic Programming and Algorithms.
-- 🔭 I’m currently working on a Reinforcement Learning project with 2048 and a personal website.
-- 👯 I’m looking to collaborate on any software development project utilizing Machine Learning models!
+- 🔭 I’m currently working on a personal website and Machine Learning project to predict cryptocurrency stock prices.
+- 👯 I’m looking to collaborate on any software development project utilizing Machine Learning!
 - ⚡ Fun fact: I love playing chess!
 
 ## Contact me! <br>
