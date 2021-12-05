@@ -10,11 +10,11 @@
 
 <!-- ![](https://github.com/saisree27/profile-stats/blob/master/generated/overview.svg) -->
 
-- 😄 Pronouns: he/him
-- 🌱 I’m currently learning about Algorithms, Dynamic Programming, and Machine Learning techniques.
-- 🔭 I’m currently working on a personal website and a Machine Learning startup project involving natural language processing and clustering.
-- 👯 I’m looking to collaborate on any software development project utilizing Machine Learning!
-- ⚡ Fun fact: I love playing chess!
+- 😄  Pronouns: he/him
+- 🌱  I’m currently learning about Algorithms and Dynamic Programming.
+- 🔭  I’m currently working on a personal website and a Machine Learning startup project involving natural language processing and clustering.
+- 👯  I’m looking to collaborate on any software development project utilizing Machine Learning!
+- ⚡  Fun fact: I love playing chess!
 
 ## Contact me! <br>
 [<img alt="Saigautam's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
