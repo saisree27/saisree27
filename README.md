@@ -1,7 +1,7 @@
 # Hi there 👋! I'm Saigautam Bonam
 
 ### Full-Stack Software Engineer and Machine Learning Enthusiast 
-CS major @ Georgia Tech specializing in Intelligence and Systems & Architecture.
+CS major @ Georgia Tech specializing in Intelligence and Systems & Architecture. Expected graduation date of December 2023.
 
 <p align="center">
   <img src="https://github.com/saisree27/profile-stats/blob/master/generated/overview.svg" /><br>
